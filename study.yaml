@@ -1,0 +1,23 @@
+# GenFinTextEval study configuration
+# Author: Hossein Tabasi
+
+study_id: genfin_v1
+seeds: [20260311, 20260813, 20260101]
+variants: [anchored, persuade_bull, persuade_bear, paraphrase]
+num_epsilon: 0.02          # relative tolerance for numerical faithfulness
+willingness_tau: 0.08      # |Δμ| threshold for willingness-to-act
+willingness_kappa: 0.55    # posterior confidence threshold
+contamination_rho: [0.0, 0.1, 0.25, 0.5, 0.75]
+baseline_corpus_size: 200
+falsification:
+  # Claim fails if BOTH conditions hold:
+  # (1) mean |Δμ| for persuade_* does not exceed anchored by margin_belief
+  # (2) contamination slope (bias vs ρ) magnitude < slope_flat
+  margin_belief: 0.03
+  slope_flat: 0.005
+paths:
+  events_dir: data/events
+  personas: data/personas.yaml
+  lexicons_dir: data/lexicons
+  artifacts_dir: artifacts
+  results_md: reports/RESULTS.md
