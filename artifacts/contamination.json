@@ -1,0 +1,272 @@
+[
+  {
+    "seed": 20260311,
+    "contaminant": "persuade",
+    "rho": 0.0,
+    "sentiment_index": 0.098333,
+    "bias_vs_rho0": 0.0,
+    "n_replaced": 0,
+    "slope_bias_vs_rho": -0.125383
+  },
+  {
+    "seed": 20260311,
+    "contaminant": "persuade",
+    "rho": 0.1,
+    "sentiment_index": 0.059028,
+    "bias_vs_rho0": -0.039306,
+    "n_replaced": 20,
+    "slope_bias_vs_rho": -0.125383
+  },
+  {
+    "seed": 20260311,
+    "contaminant": "persuade",
+    "rho": 0.25,
+    "sentiment_index": 0.0925,
+    "bias_vs_rho0": -0.005833,
+    "n_replaced": 50,
+    "slope_bias_vs_rho": -0.125383
+  },
+  {
+    "seed": 20260311,
+    "contaminant": "persuade",
+    "rho": 0.5,
+    "sentiment_index": 0.016806,
+    "bias_vs_rho0": -0.081528,
+    "n_replaced": 100,
+    "slope_bias_vs_rho": -0.125383
+  },
+  {
+    "seed": 20260311,
+    "contaminant": "persuade",
+    "rho": 0.75,
+    "sentiment_index": 0.002639,
+    "bias_vs_rho0": -0.095694,
+    "n_replaced": 150,
+    "slope_bias_vs_rho": -0.125383
+  },
+  {
+    "seed": 20260311,
+    "contaminant": "anchored",
+    "rho": 0.0,
+    "sentiment_index": 0.098333,
+    "bias_vs_rho0": 0.0,
+    "n_replaced": 0,
+    "slope_bias_vs_rho": 0.030152
+  },
+  {
+    "seed": 20260311,
+    "contaminant": "anchored",
+    "rho": 0.1,
+    "sentiment_index": 0.074333,
+    "bias_vs_rho0": -0.024,
+    "n_replaced": 20,
+    "slope_bias_vs_rho": 0.030152
+  },
+  {
+    "seed": 20260311,
+    "contaminant": "anchored",
+    "rho": 0.25,
+    "sentiment_index": 0.133333,
+    "bias_vs_rho0": 0.035,
+    "n_replaced": 50,
+    "slope_bias_vs_rho": 0.030152
+  },
+  {
+    "seed": 20260311,
+    "contaminant": "anchored",
+    "rho": 0.5,
+    "sentiment_index": 0.093333,
+    "bias_vs_rho0": -0.005,
+    "n_replaced": 100,
+    "slope_bias_vs_rho": 0.030152
+  },
+  {
+    "seed": 20260311,
+    "contaminant": "anchored",
+    "rho": 0.75,
+    "sentiment_index": 0.12,
+    "bias_vs_rho0": 0.021667,
+    "n_replaced": 150,
+    "slope_bias_vs_rho": 0.030152
+  },
+  {
+    "seed": 20260813,
+    "contaminant": "persuade",
+    "rho": 0.0,
+    "sentiment_index": 0.211667,
+    "bias_vs_rho0": 0.0,
+    "n_replaced": 0,
+    "slope_bias_vs_rho": -0.175994
+  },
+  {
+    "seed": 20260813,
+    "contaminant": "persuade",
+    "rho": 0.1,
+    "sentiment_index": 0.19125,
+    "bias_vs_rho0": -0.020417,
+    "n_replaced": 20,
+    "slope_bias_vs_rho": -0.175994
+  },
+  {
+    "seed": 20260813,
+    "contaminant": "persuade",
+    "rho": 0.25,
+    "sentiment_index": 0.13875,
+    "bias_vs_rho0": -0.072917,
+    "n_replaced": 50,
+    "slope_bias_vs_rho": -0.175994
+  },
+  {
+    "seed": 20260813,
+    "contaminant": "persuade",
+    "rho": 0.5,
+    "sentiment_index": 0.09625,
+    "bias_vs_rho0": -0.115417,
+    "n_replaced": 100,
+    "slope_bias_vs_rho": -0.175994
+  },
+  {
+    "seed": 20260813,
+    "contaminant": "persuade",
+    "rho": 0.75,
+    "sentiment_index": 0.085,
+    "bias_vs_rho0": -0.126667,
+    "n_replaced": 150,
+    "slope_bias_vs_rho": -0.175994
+  },
+  {
+    "seed": 20260813,
+    "contaminant": "anchored",
+    "rho": 0.0,
+    "sentiment_index": 0.211667,
+    "bias_vs_rho0": 0.0,
+    "n_replaced": 0,
+    "slope_bias_vs_rho": -0.072431
+  },
+  {
+    "seed": 20260813,
+    "contaminant": "anchored",
+    "rho": 0.1,
+    "sentiment_index": 0.201667,
+    "bias_vs_rho0": -0.01,
+    "n_replaced": 20,
+    "slope_bias_vs_rho": -0.072431
+  },
+  {
+    "seed": 20260813,
+    "contaminant": "anchored",
+    "rho": 0.25,
+    "sentiment_index": 0.164167,
+    "bias_vs_rho0": -0.0475,
+    "n_replaced": 50,
+    "slope_bias_vs_rho": -0.072431
+  },
+  {
+    "seed": 20260813,
+    "contaminant": "anchored",
+    "rho": 0.5,
+    "sentiment_index": 0.148333,
+    "bias_vs_rho0": -0.063333,
+    "n_replaced": 100,
+    "slope_bias_vs_rho": -0.072431
+  },
+  {
+    "seed": 20260813,
+    "contaminant": "anchored",
+    "rho": 0.75,
+    "sentiment_index": 0.1625,
+    "bias_vs_rho0": -0.049167,
+    "n_replaced": 150,
+    "slope_bias_vs_rho": -0.072431
+  },
+  {
+    "seed": 20260101,
+    "contaminant": "persuade",
+    "rho": 0.0,
+    "sentiment_index": 0.17,
+    "bias_vs_rho0": 0.0,
+    "n_replaced": 0,
+    "slope_bias_vs_rho": -0.207317
+  },
+  {
+    "seed": 20260101,
+    "contaminant": "persuade",
+    "rho": 0.1,
+    "sentiment_index": 0.152917,
+    "bias_vs_rho0": -0.017083,
+    "n_replaced": 20,
+    "slope_bias_vs_rho": -0.207317
+  },
+  {
+    "seed": 20260101,
+    "contaminant": "persuade",
+    "rho": 0.25,
+    "sentiment_index": 0.1525,
+    "bias_vs_rho0": -0.0175,
+    "n_replaced": 50,
+    "slope_bias_vs_rho": -0.207317
+  },
+  {
+    "seed": 20260101,
+    "contaminant": "persuade",
+    "rho": 0.5,
+    "sentiment_index": 0.097917,
+    "bias_vs_rho0": -0.072083,
+    "n_replaced": 100,
+    "slope_bias_vs_rho": -0.207317
+  },
+  {
+    "seed": 20260101,
+    "contaminant": "persuade",
+    "rho": 0.75,
+    "sentiment_index": 0.00875,
+    "bias_vs_rho0": -0.16125,
+    "n_replaced": 150,
+    "slope_bias_vs_rho": -0.207317
+  },
+  {
+    "seed": 20260101,
+    "contaminant": "anchored",
+    "rho": 0.0,
+    "sentiment_index": 0.17,
+    "bias_vs_rho0": 0.0,
+    "n_replaced": 0,
+    "slope_bias_vs_rho": -0.092547
+  },
+  {
+    "seed": 20260101,
+    "contaminant": "anchored",
+    "rho": 0.1,
+    "sentiment_index": 0.164333,
+    "bias_vs_rho0": -0.005667,
+    "n_replaced": 20,
+    "slope_bias_vs_rho": -0.092547
+  },
+  {
+    "seed": 20260101,
+    "contaminant": "anchored",
+    "rho": 0.25,
+    "sentiment_index": 0.181667,
+    "bias_vs_rho0": 0.011667,
+    "n_replaced": 50,
+    "slope_bias_vs_rho": -0.092547
+  },
+  {
+    "seed": 20260101,
+    "contaminant": "anchored",
+    "rho": 0.5,
+    "sentiment_index": 0.155,
+    "bias_vs_rho0": -0.015,
+    "n_replaced": 100,
+    "slope_bias_vs_rho": -0.092547
+  },
+  {
+    "seed": 20260101,
+    "contaminant": "anchored",
+    "rho": 0.75,
+    "sentiment_index": 0.095,
+    "bias_vs_rho0": -0.075,
+    "n_replaced": 150,
+    "slope_bias_vs_rho": -0.092547
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "study_id": "genfin_v1",
+  "timestamp_utc": "2026-09-06T15:47:45.867071+00:00",
+  "n_events": 10,
+  "n_variants": 4,
+  "n_personas": 4,
+  "n_seeds": 3,
+  "n_belief_cells": 480,
+  "n_text_cells": 120,
+  "means": {
+    "abs_delta_mu_anchored": 0.111919,
+    "abs_delta_mu_persuade_bull": 0.295947,
+    "abs_delta_mu_persuade_bear": 0.1438,
+    "abs_delta_mu_persuade": 0.219874,
+    "belief_lift_persuade_minus_anchored": 0.107955,
+    "mean_persuade_contamination_slope": -0.169565,
+    "mean_faithfulness_by_variant": {
+      "anchored": 0.975,
+      "persuade_bull": 0.851984,
+      "persuade_bear": 0.802897,
+      "paraphrase": 0.975
+    },
+    "mean_fabrication_by_variant": {
+      "anchored": 0.0,
+      "persuade_bull": 1.0,
+      "persuade_bear": 1.0,
+      "paraphrase": 0.0
+    },
+    "mean_certainty_by_variant": {
+      "anchored": 0.014286,
+      "persuade_bull": 0.481624,
+      "persuade_bear": 0.191739,
+      "paraphrase": 0.014286
+    },
+    "mean_hedge_by_variant": {
+      "anchored": 0.077638,
+      "persuade_bull": 0.036152,
+      "persuade_bear": 0.1353,
+      "paraphrase": 0.077638
+    },
+    "mean_frame_stability_anchored_vs_paraphrase": 0.991575,
+    "mean_disagreement_by_variant": {
+      "anchored": 0.102403,
+      "persuade_bull": 0.06454,
+      "persuade_bear": 0.120107,
+      "paraphrase": 0.102403
+    },
+    "willingness_rate_by_variant": {
+      "anchored": 0.566667,
+      "persuade_bull": 0.741667,
+      "persuade_bear": 0.458333,
+      "paraphrase": 0.566667
+    },
+    "mean_tail_frac_by_variant": {
+      "anchored": 0.2,
+      "persuade_bull": 0.0,
+      "persuade_bear": 1.0,
+      "paraphrase": 0.2
+    }
+  },
+  "falsification": {
+    "margin_belief": 0.03,
+    "slope_flat": 0.005,
+    "belief_lift": 0.107955,
+    "belief_effect": true,
+    "abs_contamination_slope": 0.169565,
+    "contamination_effect": true,
+    "claim_passes": true,
+    "claim_fails": false,
+    "rule": "Claim fails if persuade variants do not increase mean |\u0394\u03bc| vs anchored by margin_belief AND contamination slope magnitude is below slope_flat."
+  }
+}

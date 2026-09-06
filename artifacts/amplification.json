@@ -1,0 +1,35 @@
+[
+  {
+    "mean_reuse": 0.2,
+    "max_reuse": 2.0,
+    "reuse_herfindahl": 0.21875,
+    "seed": 20260311,
+    "tail_language_fraction": 0.35,
+    "tail_frac_anchored": 0.2,
+    "tail_frac_persuade_bull": 0.0,
+    "tail_frac_persuade_bear": 1.0,
+    "tail_frac_paraphrase": 0.2
+  },
+  {
+    "mean_reuse": 0.2,
+    "max_reuse": 4.0,
+    "reuse_herfindahl": 0.3125,
+    "seed": 20260813,
+    "tail_language_fraction": 0.35,
+    "tail_frac_anchored": 0.2,
+    "tail_frac_persuade_bull": 0.0,
+    "tail_frac_persuade_bear": 1.0,
+    "tail_frac_paraphrase": 0.2
+  },
+  {
+    "mean_reuse": 0.2,
+    "max_reuse": 3.0,
+    "reuse_herfindahl": 0.25,
+    "seed": 20260101,
+    "tail_language_fraction": 0.35,
+    "tail_frac_anchored": 0.2,
+    "tail_frac_persuade_bull": 0.0,
+    "tail_frac_persuade_bear": 1.0,
+    "tail_frac_paraphrase": 0.2
+  }
+]
